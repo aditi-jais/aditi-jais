@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m Aditi! I currently work as a Software Developer at Airtel Digital. These days, I don’t use GitHub much but back in my B.Tech days, I have used GitHub a lot to try out ideas, learn, and put together projects — some of which you can still find here. My current work revolves around building scalable backend systems, APIs, microservices architecture and scalability using Java, Spring Boot, and related tools. This profile is more of a snapshot of my learning journey, while most of my recent work lives in private repos. Thanks for stopping by! 🚀
 <!--
 **aditi-jais/aditi-jais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
